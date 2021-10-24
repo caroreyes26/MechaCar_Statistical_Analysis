@@ -18,3 +18,6 @@ Safety Feature Rating, Current Selling Price, Engine Type (Electric, Hybrid, Gas
 3. What is the null hypothesis or alternative hypothesis? 
 - Null Hypothesis: According to key factors of performance, MechaCar is priced correctly. 
 - Alternative Hypothesis: According to key factors of performance, MechaCar is NOT priced correctly. 
+![total summary](total_summary.PNG)
+![lot_summary](lot_summary.PNG)
+![three_lots](three_lots.PNG)
